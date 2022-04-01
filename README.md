@@ -1,5 +1,6 @@
 # uk_ecommerce
 Assignment Day 3 (advance) - Adi Kurnia Ramadhan
+file can be download here https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business
 
 # About Dataset
 ## Context
